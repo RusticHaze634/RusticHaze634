@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 - :telescope: I’m working as a **data science researcher and research content writer**.
 
+- :zap: My major in **B.Tech** was **Electrical Engineering**.
+
 - :seedling: Exploring **Technical Content Writing**.
 
 - :zap: In my free time, I solve problems on Mathematics and read tech articles.
