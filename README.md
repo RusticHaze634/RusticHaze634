@@ -27,3 +27,14 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+
+### :woman_technologist: About Me :
+- I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :telescope: I’m working as a **data science researcher and research content writer**.
+
+- :seedling: Exploring **Technical Content Writing**.
+
+- :zap: In my free time, I solve problems on Mathematics and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/shreya-biswas-13425613a)
