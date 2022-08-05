@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://media3.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47wd1z7w1qd5ouuny610nkg7mclgrt6knras2g73fb&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href=[GitHub Pages](https://pages.github.com/)>
+  <a href="linkedin.com/in/shreya-biswas-13425613a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -37,4 +37,5 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I solve problems on Mathematics and read tech articles.
 
+- **Contact:** - [linkdin](https://linkedin.com/in/shreya-biswas-13425613a).
 
