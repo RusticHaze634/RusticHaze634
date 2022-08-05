@@ -37,5 +37,5 @@ Here are some ideas to get you started:
 
 - :zap: In my free time, I solve problems on Mathematics and read tech articles.
 
-- **Contact:** - [linkdin](https://linkedin.com/in/shreya-biswas-13425613a).
+- :mailbox:**Contact:** [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shreya-biswas-13425613a).
 
