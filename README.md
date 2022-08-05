@@ -66,3 +66,8 @@ Here are some ideas to get you started:
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RusticHaze634&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### :zap: Projects :
+
+1. Data Preprocessing & Cleaning Sample Work - [Link](https://github.com/RusticHaze634/Data_Preprocessing_-_Cleaning)
+
