@@ -76,5 +76,6 @@ Here are some ideas to get you started:
 2. E-Commerce Analytics ( The RFM Approach ) - [Link](https://github.com/RusticHaze634/E-Commerce-Analytics-Project)
 3. Text Analytics ( Sentiment Classification ) - [Link](https://github.com/RusticHaze634/Text-Analysis)
 4. Stock trend Close value and Up/ Down Prediction - [Link](https://github.com/RusticHaze634/StockTrend_and_Python)
-5. Plotting Various Matplotlib Plots - [Link](https://github.com/RusticHaze634/Playing-With-Matplotlib)
+5. Fraudulent Transactions Prediction - [Link](https://github.com/RusticHaze634/Fraudulent-Transactions-Prediction)
+6. Plotting Various Matplotlib Plots - [Link](https://github.com/RusticHaze634/Playing-With-Matplotlib)
 
