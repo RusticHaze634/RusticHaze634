@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rustichaze634.rustichaze534)
+
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47wd1z7w1qd5ouuny610nkg7mclgrt6knras2g73fb&rid=giphy.gif&ct=g" width="100"/>
 </div>
@@ -23,7 +25,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-![visitors](https://visitor-badge.laobi.icu/badge?rustichaze634=rustichaze634)
 
 ### :woman_technologist: About Me :
 - I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
