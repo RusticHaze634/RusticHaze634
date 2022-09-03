@@ -26,9 +26,10 @@ Here are some ideas to get you started:
 
 
 ### :woman_technologist: About Me :
-- I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m working as a **Data Science Researcher** and **Research Content Writer**.
+I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+:telescope: I’m working as a **Data Science Researcher** and **Research Content Writer**.
 
 - :zap: My major in **B.Tech** was **Electrical Engineering**.
 
