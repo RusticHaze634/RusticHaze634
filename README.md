@@ -76,7 +76,11 @@ Here are some ideas to get you started:
 3. [Text Analytics ( Sentiment Classification ) ](https://github.com/RusticHaze634/Text-Analysis)
 4. [Stock trend Close value and Up/ Down Prediction ](https://github.com/RusticHaze634/StockTrend_and_Python)
 5. [Fraudulent Transactions Prediction ](https://github.com/RusticHaze634/Fraudulent-Transactions-Prediction)
-6. [Plotting Various Matplotlib Plots ](https://github.com/RusticHaze634/Playing-With-Matplotlib)
-7. [Smoothening various Curves](https://github.com/RusticHaze634/Python-Dump/blob/main/Simple/smooth%20curve.ipynb)
-8. [Markdown Tricks and Maths](https://github.com/RusticHaze634/Markdown_Jotdown)
+
+--------------------------------------------
+### :zap: For Visuals :
+
+1. [Plotting Various Matplotlib Plots ](https://github.com/RusticHaze634/Playing-With-Matplotlib)
+2. [Smoothening various Curves](https://github.com/RusticHaze634/Python-Dump/blob/main/Simple/smooth%20curve.ipynb)
+3. [Markdown Tricks and Maths](https://github.com/RusticHaze634/Markdown_Jotdown)
 
