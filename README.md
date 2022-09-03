@@ -27,17 +27,13 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.  
+:telescope: I’m working as a **Data Science Researcher** and **Research Content Writer**.   
+:zap: My major in **B.Tech** was **Electrical Engineering**.
+:seedling: Exploring **Technical Content Writing**.    
+:zap: In my free time, I solve problems on Mathematics and read tech articles.  
 
-:telescope: I’m working as a **Data Science Researcher** and **Research Content Writer**.
-
-- :zap: My major in **B.Tech** was **Electrical Engineering**.
-
-- :seedling: Exploring **Technical Content Writing**.
-
-- :zap: In my free time, I solve problems on Mathematics and read tech articles.
-
-- :mailbox:**Contact:** [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shreya-biswas-13425613a).
+:mailbox:**Contact:** [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shreya-biswas-13425613a).   
 
 -----
 
