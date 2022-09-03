@@ -77,4 +77,5 @@ Here are some ideas to get you started:
 4. [Stock trend Close value and Up/ Down Prediction ](https://github.com/RusticHaze634/StockTrend_and_Python)
 5. [Fraudulent Transactions Prediction ](https://github.com/RusticHaze634/Fraudulent-Transactions-Prediction)
 6. [Plotting Various Matplotlib Plots ](https://github.com/RusticHaze634/Playing-With-Matplotlib)
+7. [Markdown Tricks and Maths](https://github.com/RusticHaze634/Markdown_Jotdown)
 
