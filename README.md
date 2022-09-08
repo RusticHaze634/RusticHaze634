@@ -69,9 +69,17 @@ I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.co
 
 1. [Data Preprocessing & Cleaning Sample Work ](https://github.com/RusticHaze634/Data_Preprocessing_-_Cleaning)
 2. [E-Commerce Analytics ( The RFM Approach ) ](https://github.com/RusticHaze634/E-Commerce-Analytics-Project)
-3. [Text Analytics ( Sentiment Classification ) ](https://github.com/RusticHaze634/Text-Analysis)
+3. 
 4. [Stock trend Close value and Up/ Down Prediction ](https://github.com/RusticHaze634/StockTrend_and_Python)
 5. [Fraudulent Transactions Prediction ](https://github.com/RusticHaze634/Fraudulent-Transactions-Prediction)
+
+### :zap: NLP 
+
+1. [Topic Modelling Using LDA for Document Clustering](https://github.com/RusticHaze634/NLP-Room/tree/main/NLP%20Project%20Room%201)
+2. [News Article Recommendation System using LDA Topic](https://github.com/RusticHaze634/NLP-Room/tree/main/NLP%20Project%20Room%201)
+3. [Fake News Detection using LSTM](https://github.com/RusticHaze634/NLP-Room/tree/main/NLP%20Project%20Room%201)
+4. [NLP-Text Preprocessing and Mining](https://github.com/RusticHaze634/NLP-Room/tree/main/NLP%20Project%20Room%201)
+5. [Text Analytics ( Sentiment Classification ) ](https://github.com/RusticHaze634/Text-Analysis)
 
 ***
 ### :zap: For Visuals :
