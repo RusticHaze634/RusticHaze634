@@ -69,9 +69,8 @@ I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.co
 
 1. [Data Preprocessing & Cleaning Sample Work ](https://github.com/RusticHaze634/Data_Preprocessing_-_Cleaning)
 2. [E-Commerce Analytics ( The RFM Approach ) ](https://github.com/RusticHaze634/E-Commerce-Analytics-Project)
-3. 
-4. [Stock trend Close value and Up/ Down Prediction ](https://github.com/RusticHaze634/StockTrend_and_Python)
-5. [Fraudulent Transactions Prediction ](https://github.com/RusticHaze634/Fraudulent-Transactions-Prediction)
+3. [Stock trend Close value and Up/ Down Prediction ](https://github.com/RusticHaze634/StockTrend_and_Python)
+4. [Fraudulent Transactions Prediction ](https://github.com/RusticHaze634/Fraudulent-Transactions-Prediction)
 
 ### :zap: NLP 
 
