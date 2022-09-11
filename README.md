@@ -65,7 +65,7 @@ I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.co
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RusticHaze634&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### :zap: Projects :
+### :zap: Some Projects :
 
 1. [Data Preprocessing & Cleaning Sample Work ](https://github.com/RusticHaze634/Data_Preprocessing_-_Cleaning)
 2. [E-Commerce Analytics ( The RFM Approach ) ](https://github.com/RusticHaze634/E-Commerce-Analytics-Project)
