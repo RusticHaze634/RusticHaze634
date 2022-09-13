@@ -82,7 +82,7 @@ I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.co
 
 ### :zap: Time Series
 
-1. 
+1. [Airline Passenger Data- Time Series Analysis and Forecasting](https://github.com/RusticHaze634/Time-Series-Room/blob/main/README.md#2-airline-passenger-data--time-series-analysis-and-forecasting)
 
 ### :zap: Deep Learning
 
