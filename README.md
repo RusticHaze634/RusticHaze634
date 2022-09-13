@@ -80,6 +80,14 @@ I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.co
 4. [NLP-Text Preprocessing and Mining](https://github.com/RusticHaze634/NLP-Room/tree/main/NLP%20Project%20Room%201)
 5. [Text Analytics ( Sentiment Classification ) ](https://github.com/RusticHaze634/Text-Analysis)
 
+### :zap: Time Series
+
+1. 
+
+### :zap: Deep Learning
+
+1. 
+
 ***
 ### :zap: For Visuals :
 
