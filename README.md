@@ -72,6 +72,11 @@ I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.co
 3. [Stock trend Close value and Up/ Down Prediction ](https://github.com/RusticHaze634/StockTrend_and_Python)
 4. [Fraudulent Transactions Prediction ](https://github.com/RusticHaze634/Fraudulent-Transactions-Prediction)
 
+
+### :zap: Data Analysis
+
+1. [Uber Data Analysis]()
+
 ### :zap: NLP 
 
 1. [Topic Modelling Using LDA for Document Clustering](https://github.com/RusticHaze634/NLP-Room/tree/main/NLP%20Project%20Room%201)
