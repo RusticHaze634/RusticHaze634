@@ -71,7 +71,7 @@ I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.co
 2. [E-Commerce Analytics ( The RFM Approach ) ](https://github.com/RusticHaze634/E-Commerce-Analytics-Project)
 3. [Stock trend Close value and Up/ Down Prediction ](https://github.com/RusticHaze634/StockTrend_and_Python)
 4. [Fraudulent Transactions Prediction ](https://github.com/RusticHaze634/Fraudulent-Transactions-Prediction)
-5. [Handpose Detection](https://github.com/RusticHaze634/OpenCV_Walks/blob/main/Gesture%20Detection/Handpose%20Estimation%201.ipynb)
+5. [Handpose Detection](https://github.com/RusticHaze634/OpenCV_Walks/blob/main/Gesture%20Detection/README.md)
 
 
 ### :zap: Data Analysis
