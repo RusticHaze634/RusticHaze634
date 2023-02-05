@@ -77,6 +77,7 @@ I am a **Data Science and Analysis** enthusiast <img src="https://media.giphy.co
 ### :zap: Data Analysis
 
 1. [Uber Data Analysis](https://github.com/RusticHaze634/Uber-data-analysis)
+2. [Shopper Intention Analysis and Predictive Modelling](https://github.com/RusticHaze634/Shopping-Intention-Analysis)
 
 ### :zap: NLP 
 
